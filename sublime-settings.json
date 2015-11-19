@@ -1,13 +1,34 @@
 {
+    // Anaconda Lint options
     "anaconda_gutter_marks": true,
     "anaconda_gutter_theme": "bright",
     "default_line_ending": "unix",
+    "pep8_max_line_length": 120,
+
+    // Font options
     "font_size": 10,
-    "ignored_packages":
-    [
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+
+    "ignored_packages": [
         "Vintage"
     ],
-    "pep8_max_line_length": 120,
+
+    // Indent options
     "tab_size": 4,
-    "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    "indent_guide_options": [
+        "draw_normal",
+        "draw_active"
+    ],
+
+    // Caret options
+    "wide_caret": true,
+    "caret_style": "phase",
+
+    // Sidebar options
+    "bold_folder_labels": true,
+
+    // Tab options
+    "highlight_modified_tabs": true,
 }
