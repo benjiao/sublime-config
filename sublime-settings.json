@@ -10,6 +10,8 @@
     "line_padding_bottom": 1,
     "line_padding_top": 1,
 
+    "highlight_line": true,
+
     "ignored_packages": [
         "Vintage"
     ],
@@ -31,4 +33,7 @@
 
     // Tab options
     "highlight_modified_tabs": true,
+
+    "gutter": true,
+
 }
