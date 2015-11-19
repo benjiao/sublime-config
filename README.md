@@ -1,8 +1,7 @@
 # Sublime Settings
 
-## Plugins
+**Packages Installed**
 - Anaconda
 - Color Highlighter
 - Origami
 - Select Quoted
-
